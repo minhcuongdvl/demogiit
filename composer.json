@@ -1,0 +1,12 @@
+{
+    "name": "foostart/sample",
+    "description": "minhcuong <minhcuong@gmail.com>",
+    "authors": [
+        {
+            "name": "minhcuong",
+            "email": "minhcuong@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
