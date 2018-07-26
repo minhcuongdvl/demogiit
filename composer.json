@@ -11,6 +11,6 @@
             "email": "minhcuong@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
+   
 }
